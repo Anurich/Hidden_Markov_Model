@@ -11,5 +11,5 @@ A hidden Markov model(HMM) allows us to talk about both observed events Hidden M
   <li> Python == 2.7.5
 </ul>
 <h2>Project Directory Overview.</h2>
-Forward and Backward Algorithm is implemented in <b>hiddenMarkov file</b>. 
+Forward and Backward Algorithm is implemented in <b>hiddenMarkov file</b>.<br/>
 Where as gym game integration is present inside <b>HW 3</b> folder.
